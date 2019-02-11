@@ -1,15 +1,18 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+
+title: Darren++
+author: Darren Butler
+email: darren.butler531@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  STEM Enthusiast. Student Advocate. Aspiring Developer and Engineer.
+  I love the concept of self-actualization. Honestly, I tend to think of life as a video game 
+  where we’re racking up as much experience points as possible to be the absolute, best version of ourselves.
+  With that in mind, it’s my pleasure to write and speak about how I can help others and myself continuously 
+  level up as students, professionals, educators, or individuals in STEM.  
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: darrendbutler
+github_username:  darrenbutler
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: minima
