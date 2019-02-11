@@ -1,3 +1,9 @@
+---
+title: "Persoectives on Personal Branding"
+date: 2019-02-10
+---
+
+
 #What is a personal brand?
 The idea of a personal brand is quite simple. A personal brand is the collection of ideas that represent you. Just as you may associate “professionalism” with LinkedIn, a personal brand is like the first thing people associate with you.
 
